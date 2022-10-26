@@ -1,4 +1,5 @@
 Scalability
 Connectivity
-Artificial Intelligence 
 Security
+Dynamic Nature
+Integration 
