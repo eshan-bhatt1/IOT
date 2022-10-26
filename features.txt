@@ -1,2 +1,4 @@
 Scalability
 Connectivity
+Artificial Intelligence 
+Security
